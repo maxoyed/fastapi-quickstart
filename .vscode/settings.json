@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+    "terminal.integrated.fontSize": 12
+}
